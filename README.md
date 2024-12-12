@@ -18,4 +18,3 @@ This project implements a client-server system in Go, designed to handle multipl
 
 3. **Server Request Handling:**
    - The server includes specific task functions to process client requests.
-   - Each function handles a unique operation.
