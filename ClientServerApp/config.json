@@ -1,0 +1,5 @@
+{
+    "ArraySize": 5,
+    "MaxGoroutines": 10,
+    "Port": 12345
+}
